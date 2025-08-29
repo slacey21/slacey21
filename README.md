@@ -4,7 +4,7 @@ I'm a full stack software engineer with several years working in the TypeScript/
 
 ## <img src="./pendulum.png" alt="Pendulum Logo" width="28" height="28" style="vertical-align: text-bottom;"> About Pendulum 
 
-Recently, on a team of three engineers, I co-created [Pendulum](https://github.com/your-username/pendulum), an open-source Backend as a Service platform that helps developers build reactive applications with automated AWS deployment. Read through the [📕 case study](https://www.pendulum-baas.dev/case-study/) or check out the [code](https://github.com/Pendulum-BaaS)!
+Recently, on a team of three engineers, I co-created [Pendulum](https://www.pendulum-baas.dev), an open-source Backend as a Service platform that helps developers build reactive applications with automated AWS deployment. Read through the [📕 case study](https://www.pendulum-baas.dev/case-study/) or check out the [code](https://github.com/Pendulum-BaaS)!
 
 ## ⛏️ Other Projects / Future Work
 
