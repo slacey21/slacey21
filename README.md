@@ -3,7 +3,7 @@
 I'm a full stack software engineer with several years working in the TypeScript/JavaScript and Python ecosystems.
 
 ## <img src="./pendulum.png" alt="Pendulum Logo" width="28" height="28" style="vertical-align: middle;"> About Pendulum 
-Recently, on a team of three engineers, I co-created [Pendulum](https://github.com/your-username/pendulum), an open-source Backend as a Service platform that helps developers build reactive applications with automated AWS deployment. Checkout the [📕 case study](https://www.pendulum-baas.dev/case-study/)!
+Recently, on a team of three engineers, I co-created [Pendulum](https://github.com/your-username/pendulum), an open-source Backend as a Service platform that helps developers build reactive applications with automated AWS deployment. Read through the [📕 case study](https://www.pendulum-baas.dev/case-study/)!
 
 ## ⛏️ Other Projects / Future Work
 - **Sous** - RAG-powered chatbot for meal prep and recipe discovery using vector embeddings
